@@ -1,6 +1,6 @@
 # Currency Exchange Project
 
-The Currency Exchange Project is a seamlessly integrated feature within the Bank-System, developed independently while adhering to the implementation rules of the Bank-System. The project follows a 3-tier architecture and is meticulously designed to incorporate Object-Oriented Programming (OOP) concepts in C++.
+The Currency Exchange Project is a integrated feature within the Bank-System, developed independently while adhering to the implementation rules of the Bank-System. The project follows a 3-tier architecture and is meticulously designed to incorporate Object-Oriented Programming (OOP) concepts in C++.
 
 ## Architecture
 
