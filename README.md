@@ -4,7 +4,7 @@ The Currency Exchange Project is a integrated feature within the Bank-System, de
 
 ## Architecture
 
-The project is structured in a 3-tier architecture, ensuring a robust and scalable foundation for seamless integration within the Bank-System.
+The project is structured in a 3-tier architecture, ensuring a seamless integration within the Bank-System.
 
 ## Database
 
@@ -18,23 +18,21 @@ All currency rates are compared with the United States Dollar (USD) as a referen
 
 ### 1. List of All Currencies
 
-The project allows user to conveniently view a comprehensive list of all supported currencies.
+The project allows user to view a list of all supported currencies.
 
 ### 2. Find and Display Specific Currency
 
-Users can easily search for and view detailed information about a specific currency.
+Users can search for and view information about a specific currency.
 
 ### 3. Update Specific Currency Rate
 
-The system provides functionality to update the exchange rate for a specific currency, ensuring that the information remains accurate.
+The project provides feature to update the exchange rate for a specific currency.
 
 ### 4. Currency Exchange Calculator
 
-One of the main features of the project is its ability to calculate and display currency exchanges between different currencies, offering users a convenient tool for financial transactions.
+The main features of the project is its ability to calculate and display currency exchanges between different currencies.
 
 ## Note
 
-It's important to be aware that the currency data used in the project may be out of date and could contain inaccuracies. Users are encouraged to verify the information independently for critical transactions.
-
-Feel free to explore and enhance the project, contributing to the evolution of a seamless currency exchange experience within the Bank-System.
+It's important to be aware that the currency data used in the project may be out of date and could contain inaccuracies.
 
